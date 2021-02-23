@@ -134,8 +134,8 @@ header nav{
     
     #boxes p{
         width: 300px;
-        background-color: #35424a;
-        color: #ffffff;
+        background-color: white;
+        color: black;
     }
 
     #boxes .box{
